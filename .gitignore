@@ -1,0 +1,11 @@
+# Dependencias de Node.js
+node_modules/
+.env
+
+# Archivos del sistema
+.DS_Store
+.idea/
+.vscode/
+# Ignorar directorios de uploads
+/uploads/
+/src/uploads/
